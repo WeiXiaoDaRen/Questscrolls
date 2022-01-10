@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Questscrolls">
+    <output-path>$PROJECT_DIR$/out/artifacts/Questscrolls</output-path>
+    <root id="archive" name="Questscrolls.jar">
+      <element id="module-output" name="Questscrolls" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/task1.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/language.yml" />
+    </root>
+  </artifact>
+</component>
